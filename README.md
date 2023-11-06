@@ -3,6 +3,10 @@ Track ideas for personal projects
 
 - [ ] Redo Website
 - [ ] Web UI for Github Actions
-- [ ] Service that periodically reminds you to contact people from your life. Ref: https://jakobgreenfeld.com/stay-in-touch
+- [ ] Make this self-hosted https://jakobgreenfeld.com/stay-in-touch
 - [ ] Simple database to understand internals
 - [ ] Kubernetes Controller
+
+## Projects to contribute to
+
+- https://github.com/actions/actions-runner-controller
