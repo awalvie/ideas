@@ -1,5 +1,6 @@
 # ideas
-Track ideas for personal projects
+
+### Projects
 
 - [ ] Redo Website
 - [ ] Web UI for Github Actions
@@ -7,6 +8,11 @@ Track ideas for personal projects
 - [ ] Simple database to understand internals
 - [ ] Kubernetes Controller
 
-## Projects to contribute to
+### Contribute
 
-- https://github.com/actions/actions-runner-controller
+- [ ] https://github.com/actions/actions-runner-controller
+
+### Blog
+
+- [ ] How do self-hosted github actions work
+- [ ] A deep dive of what happens when you execute any command in the terminal
