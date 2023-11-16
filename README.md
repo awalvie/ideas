@@ -13,7 +13,11 @@
 
 - [ ] https://github.com/actions/actions-runner-controller
 
-### Blog
+### Technical Blog
 
 - [ ] How do self-hosted github actions work
 - [ ] A deep dive of what happens when you execute any command in the terminal
+
+## Musings
+
+- [ ] Stoic abstinence in the modern world
