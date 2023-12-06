@@ -21,6 +21,10 @@
 - [ ] A deep dive of what happens when you execute any command in the terminal
 - [ ] Github project forks that are still maintained and how to find them
 
+### Challenges
+
+- [Fly.io Gossip Gloomers](https://fly.io/dist-sys/)
+
 ## Musings
 
 - [ ] Stoic abstinence in the modern world
