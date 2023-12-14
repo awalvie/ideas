@@ -7,7 +7,9 @@
 - [ ] Web UI for Github Actions
 - [ ] Make this self-hosted https://jakobgreenfeld.com/stay-in-touch
 - [ ] Simple database to understand internals
+    - https://build-your-own.org/database/
 - [ ] Kubernetes Controller
+- [ ] https://app.codecrafters.io/tracks/go
 
 ### Contribute
 
