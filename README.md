@@ -23,6 +23,7 @@
 ### Technical Blog
 
 - [ ] How do self-hosted github actions work
+- [ ] Prometheus artitecture and how it works internally
 - [ ] A deep dive of what happens when you execute any command in the terminal
 - [ ] Github project forks that are still maintained and how to find them
 
