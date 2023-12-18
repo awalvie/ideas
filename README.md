@@ -4,6 +4,7 @@
 
 - [ ] Redo Website
   - [ ] Add a section to the index page for latest posts
+  - [ ] Add a start rating to all 'read' books
 - [ ] Web UI for Github Actions
 - [ ] Make this self-hosted https://jakobgreenfeld.com/stay-in-touch
 - [ ] Simple database to understand internals
