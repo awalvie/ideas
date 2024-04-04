@@ -14,6 +14,7 @@
 - [ ] Kubernetes Controller
 - [ ] https://app.codecrafters.io/tracks/go
 - [ ] https://pdos.csail.mit.edu/6.828/2012/xv6.html
+- [ ] chip-8 emulator in go: https://tobiasvl.github.io/blog/write-a-chip-8-emulator/
 
 ### Contribute
 
